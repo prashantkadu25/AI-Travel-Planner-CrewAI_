@@ -51,13 +51,3 @@ To run this application, you need to set up API keys for the AI model and the se
     The application will open in your web browser.
 
 ---
-
-## 3. 🔗 Share Your Work on LinkedIn
-
-You are now ready to share the project using the optimized post you prepared, including the video!
-
-* Upload your edited video to LinkedIn.
-* Paste your final post content.
-* **Crucially, add a link to your new GitHub repo in the comments** or the post content: `https://github.com/prashantkadu25/AI-Travel-Planner-CrewAI_`
-
-What would you like to do next—review the README template or start preparing your LinkedIn post?
